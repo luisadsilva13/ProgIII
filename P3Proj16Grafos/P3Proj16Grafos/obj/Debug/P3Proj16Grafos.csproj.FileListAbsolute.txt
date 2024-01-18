@@ -1,0 +1,16 @@
+C:\Users\utilizador\Downloads\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj16Grafos.exe.config
+C:\Users\utilizador\Downloads\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj16Grafos.exe
+C:\Users\utilizador\Downloads\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj16Grafos.pdb
+C:\Users\utilizador\Downloads\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csprojResolveAssemblyReference.cache
+C:\Users\utilizador\Downloads\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.MainForm.resources
+C:\Users\utilizador\Downloads\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csproj.GenerateResource.Cache
+C:\Users\utilizador\Downloads\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.exe
+C:\Users\utilizador\Downloads\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.pdb
+C:\Users\utilizador\Documents\SharpDevelop Projects\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj16Grafos.exe.config
+C:\Users\utilizador\Documents\SharpDevelop Projects\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj16Grafos.exe
+C:\Users\utilizador\Documents\SharpDevelop Projects\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj16Grafos.pdb
+C:\Users\utilizador\Documents\SharpDevelop Projects\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csprojResolveAssemblyReference.cache
+C:\Users\utilizador\Documents\SharpDevelop Projects\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.MainForm.resources
+C:\Users\utilizador\Documents\SharpDevelop Projects\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csproj.GenerateResource.Cache
+C:\Users\utilizador\Documents\SharpDevelop Projects\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.exe
+C:\Users\utilizador\Documents\SharpDevelop Projects\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.pdb
